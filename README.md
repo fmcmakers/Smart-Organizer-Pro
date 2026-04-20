@@ -14,7 +14,7 @@
 * **⏪ Emergency Undo:** One-click rollback to restore files to their original locations if a mistake happens.
 
 ## 📥 Download & Install
-You can download the standalone executable or the complete installer from the **[Releases](#)** section.
+You can download the standalone executable or the complete installer from the **[Releases](https://github.com/fmcmakers/Smart-Organizer-Pro/releases/tag/v1.6)** section.
 *No Python installation required for the `.exe` version!*
 
 ## 🛠️ Built With
